@@ -5,16 +5,16 @@ body {
     #0259d8,
     #593590,
     #4f1d52,
-    #301224,
+    #301223,
     #000000
   );
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 6rem;
   color: #dbedf3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #da0463;
+  text-shadow: 3px 0 #da0473;
 }
 
 footer {
@@ -51,17 +51,17 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 11% auto;
 }
 
 .game-over {
   background-color: red;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #dbedf3;
-  opacity: 0.5;
+  box-shadow: 0 3px 3px 0 #dbedf3;
+  opacity: 0.4;
 }
 
 .red {
@@ -70,18 +70,18 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #404b69;
-  font-size: 5rem;
+  border: 9px solid #404b79;
+  font-size: 6rem;
   font-family: "Arvo", cursive;
   line-height: 2;
   font-weight: 900;
-  color: #da0463;
-  text-shadow: 3px 0 #dbedf3;
-  border-radius: 15px;
+  color: #da0464;
+  text-shadow: 3px 0 #dbedf2;
+  border-radius: 16px;
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 151px;
+  height: 151px;
   text-align: center;
-  margin: 10px;
+  margin: 9px;
   background-color: white;
 }
